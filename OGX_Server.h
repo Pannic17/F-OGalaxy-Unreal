@@ -69,7 +69,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	FVector2D HeightRange = FVector2D(-200, 1000);
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	FVector2D MidPoint = FVector2D(127, 127);
+	FVector2D MidPoint = FVector2D(255, 255);
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	int ColorOffset = 40;
 
